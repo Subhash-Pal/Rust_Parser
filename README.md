@@ -16,6 +16,7 @@ Rust Assignment -> Step to run test
      Running `D:\Rust Domain\RustExample\parser\target\debug\deps\parser-0e816fbe8744f446.exe`
 
 running 5 tests
+
 test tests::test_evaluate_expression1 ... ok
 
 test tests::test_evaluate_expression2 ... ok
@@ -23,6 +24,7 @@ test tests::test_evaluate_expression2 ... ok
 test tests::test_evaluate_expression3 ... ok
 
 test tests::test_evaluate_expression4 ... FAILED
+
 test tests::test_evaluate_expression5 ... FAILED
 
 '''
