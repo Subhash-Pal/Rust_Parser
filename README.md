@@ -17,8 +17,11 @@ Rust Assignment -> Step to run test
 
 running 5 tests
 test tests::test_evaluate_expression1 ... ok
+
 test tests::test_evaluate_expression2 ... ok
+
 test tests::test_evaluate_expression3 ... ok
+
 test tests::test_evaluate_expression4 ... FAILED
 test tests::test_evaluate_expression5 ... FAILED
 
